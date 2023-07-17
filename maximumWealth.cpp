@@ -25,7 +25,7 @@ public:
 	}
 };
 
-int main()
+int mainMaximumWealth()
 {
 	MaximumWealthSolution s;
 	vector<vector<int>> a = { {1, 2, 3}, {3, 2, 1} };
