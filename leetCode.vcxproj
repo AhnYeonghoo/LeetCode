@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="fizzBuzz.cpp" />
     <ClCompile Include="maximumWealth.cpp" />
+    <ClCompile Include="middleOfTheLinkedList.cpp" />
     <ClCompile Include="numberOFStepsToReduceANumberToZero.cpp" />
     <ClCompile Include="runningSum.cpp" />
   </ItemGroup>
