@@ -33,5 +33,17 @@
     <ClCompile Include="singlist.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ransomNote.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자 리스트를 문자열로 변환하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9로 나눈 나머지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 정렬하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
