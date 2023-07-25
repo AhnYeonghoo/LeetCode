@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="9로 나눈 나머지.cpp" />
+    <ClCompile Include="Concatenation_of_array.cpp" />
     <ClCompile Include="fizzBuzz.cpp" />
     <ClCompile Include="maximumWealth.cpp" />
     <ClCompile Include="middleOfTheLinkedList.cpp" />
